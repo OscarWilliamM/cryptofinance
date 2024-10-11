@@ -1,4 +1,6 @@
-# FASTAPI INTRODUCTION
+# FASTAPI
+
+**Tecnologias Usadas
 
 **FastAPI, PostgreSQL, Async SQLAlchemy, Async requests with AIOHTTP**
 
