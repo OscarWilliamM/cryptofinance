@@ -2,15 +2,15 @@
 
 **Tecnologias Usadas
 
-**FastAPI, PostgreSQL, Async SQLAlchemy, Async requests with AIOHTTP**
+**FastAPI, PostgreSQL, SQLAlchemy, requests with AIOHTTP**
 
-## Dependecies
+# Dependecies
 * Docker
 * Docker-compse
-* Python >= 3.6
+* Python >= 3.8
 * Pip
 
-## How to run
+# How to run
 Add project path at `PYTHONPATH` variable in `.env` file.
 
 Start **postgres** database and **pgadmin**
